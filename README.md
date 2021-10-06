@@ -16,7 +16,9 @@ esses projetos foram desenvolvidos com as seguintes tecnologias:
 
 ## ✅ features
 
-[ ] melhorias na responsividade
+- melhorias na responsividade
+
+
 
 ---
 
