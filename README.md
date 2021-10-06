@@ -2,7 +2,7 @@
 
 ## 🌈 sobre
 
-este foi um projeto desenvolvido a partir de um protótipo do figma, disponibilizado pelo [Iuri Silva](https://github.com/iuricode/), criador da comunidade [Codelândia](https://discord.com/invite/QevDJqCzaY). a ideia é recriar a tela o mais próximo do modelo, possibilitando o usuário visualizar o layout idenpendente do tamanho da tela.
+este foi um projeto desenvolvido a partir de um protótipo do figma, disponibilizado pelo [Iuri Silva](https://github.com/iuricode/), criador da comunidade [Codelândia](https://discord.com/invite/QevDJqCzaY). a ideia é recriar a tela o mais próximo do modelo, possibilitando o usuário visualizar o layout independente do tamanho da tela. </br>
 para a criação, utilizei flexbox e a biblioteca scroll reveal. 
 
 ## ✨ tecnologias
