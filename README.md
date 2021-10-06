@@ -1,4 +1,4 @@
-![image](blog-codelandia.png)
+![image](assets/blog-codelandia.png)
 
 ## 🌈 sobre
 
