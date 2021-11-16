@@ -8,7 +8,7 @@ você pode conferir [aqui](https://giovxna.github.io/blog/).
 
 ## ✨ tecnologias
 
-esses projetos foram desenvolvidos com as seguintes tecnologias:
+esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
