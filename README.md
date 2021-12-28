@@ -18,7 +18,6 @@ esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - melhorias na responsividade
 
-</br>
 
 ---
 
